@@ -1,4 +1,4 @@
-package db
+package bringste.db
 
 import java.sql.Timestamp
 
